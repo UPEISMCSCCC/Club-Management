@@ -1,0 +1,4 @@
+# ingore middle steps for latex
+*.aux
+*.log
+*.out
